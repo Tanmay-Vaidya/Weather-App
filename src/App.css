@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to right, #74ebd5, #9face6);
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+button {
+  margin-top: 8px;
+}
